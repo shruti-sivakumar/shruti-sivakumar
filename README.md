@@ -3,7 +3,7 @@ Hey everyone! I am Shruti Sivakumar, a first-year B.Tech. student majoring in Ar
 
 ## 🌐 Socials
 <div id="badges">
-  <a href="https://www.linkedin.com/in/shruti-sivakumar-25j06/">
+  <a href="https://www.linkedin.com/in/25j06/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/shruti._sivakumar/">
