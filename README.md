@@ -1,5 +1,5 @@
 # ✨ About Me 
-Hey everyone! I am Shruti Sivakumar, a second-year B.Tech. student majoring in Artificial Intelligence at Amrita Vishwa Vidyapeetham, Coimbatore.
+Hey everyone! I am Shruti Sivakumar, a third-year B.Tech. student majoring in Artificial Intelligence at Amrita Vishwa Vidyapeetham, Coimbatore.
 
 ## 🌐 Socials
 <div id="badges">
