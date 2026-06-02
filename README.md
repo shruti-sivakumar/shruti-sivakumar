@@ -1,4 +1,4 @@
-# Shruti Sivakumar
+# Hi, I'm Shruti Sivakumar 👋🏼
 
 🎓 Final-year B.Tech CSE-AI @ Amrita Vishwa Vidyapeetham, Coimbatore, India.
 
