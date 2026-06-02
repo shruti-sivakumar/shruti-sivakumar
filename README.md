@@ -6,7 +6,7 @@ I build production AI systems — NLP systems, large-scale data engineering, dis
 
 Currently interning at **RFPSchoolWatch** (US, remote) on SLMs and procurement data pipelines, and previously at **Visual Infomedia** where I fine-tuned LLMs for document extraction and built a 37-portal government bid scraping platform (all live in production).
 
-**Research:** 1 published IEEE paper · 3 accepted papers (Springer, IEEE) · topics span NLP, multimodal learning, generative models, time series forecasting
+**Research:** 1 published IEEE paper · 3 accepted papers (Springer, IEEE) · topics span multimodal learning, generative models, time series forecasting
 
 **Achievements:** 🏆 Myntra WeForShe HackerRamp 2024 Winner · 🥉 2nd Runner-Up at IEEE R10-HTC Innovation Challenge 2024, Kuala Lumpur
 
