@@ -8,7 +8,7 @@ Currently interning at **RFPSchoolWatch** (US, remote) on SLMs and procurement d
 
 **Research:** 1 published IEEE paper · 3 accepted papers (Springer, IEEE) · topics span multimodal learning, generative models, time series forecasting
 
-**Achievements:** 🏆 Myntra WeForShe HackerRamp 2024 Winner · 🥉 2nd Runner-Up at IEEE R10-HTC Innovation Challenge 2024, Kuala Lumpur
+**Achievements:** ABB Accelerator 2026 Finalist (Top 6) · 🏆 Myntra WeForShe HackerRamp 2024 Winner · 🥉 2nd Runner-Up at IEEE R10-HTC Innovation Challenge 2024, Kuala Lumpur
 
 💼 Open to AI Engineering and Data Science roles, alongside Software Development.
 
