@@ -1,18 +1,21 @@
-# Hi, I'm Shruti Sivakumar 👋🏼
+Hi, I'm Shruti Sivakumar 👋🏼
 
-🎓 Final-year B.Tech CSE-AI @ Amrita Vishwa Vidyapeetham, Coimbatore, India.
+Final-year B.Tech CSE-AI @ Amrita Vishwa Vidyapeetham, Coimbatore
 
-I build production AI systems — NLP systems, large-scale data engineering, distributed ML pipelines, etc. Most of my work has shipped to production and is actively used.
+I build production AI systems — NLP, LLMs, RAG pipelines, and large-scale data engineering. Everything I ship goes into production and is actively used.
 
-Currently interning at **RFPSchoolWatch** (US, remote) on SLMs and procurement data pipelines, and previously at **Visual Infomedia** where I fine-tuned LLMs for document extraction and built a 37-portal government bid scraping platform (all live in production).
+Current: Engineering Intern at Eightfold AI (Noida) — AI-driven talent intelligence systems
 
-**Research:** 1 published IEEE paper · 3 accepted papers (Springer, IEEE) · topics span multimodal learning, generative models, time series forecasting
+Previous internships:
 
-**Achievements:** ABB Accelerator 2026 Finalist (Top 6) · 🏆 Myntra WeForShe HackerRamp 2024 Winner · 🥉 2nd Runner-Up at IEEE R10-HTC Innovation Challenge 2024, Kuala Lumpur
+RFP SchoolWatch (US, remote) — AI automation for K-12 procurement intelligence: document understanding, LLM-driven summarization & classification, large-scale entity matching, and data pipelines
+Visual Infomedia — Production NLP systems: LLM fine-tuning for document extraction, transformer training for large-scale classification, web scraping platform covering 37 US and Canadian government procurement portals (all live in production)
 
-💼 Open to AI Engineering and Data Science roles, alongside Software Development.
+Research: 2 published IEEE papers · 2 accepted conference papers (Springer) — topics span multimodal learning, generative models, time series forecasting
 
----
+Achievements: ABB Accelerator 2026 Finalist · 🏆 Myntra WeForShe HackerRamp 2024 Winner · 🥉 2nd Runner-Up at IEEE R10-HTC Innovation Challenge 2024 (Kuala Lumpur)
+
+Technical Focus: NLP · LLMs & Fine-tuning · RAG Pipelines · Agentic AI · PyTorch · HuggingFace · FastAPI · Distributed Systems (Spark, Kafka) · SQL
 
 ## Tech Stack
 
