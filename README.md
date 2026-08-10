@@ -4,18 +4,18 @@ Final-year B.Tech CSE-AI @ Amrita Vishwa Vidyapeetham, Coimbatore
 
 I build production AI systems — NLP, LLMs, RAG pipelines, and large-scale data engineering. Everything I ship goes into production and is actively used.
 
-Current: Engineering Intern at Eightfold AI (Noida) — AI-driven talent intelligence systems
+**Current:** Engineering Intern at Eightfold AI (Noida) — AI-driven talent intelligence systems
 
-Previous internships:
+**Previous internships:**
 
 RFP SchoolWatch (US, remote) — AI automation for K-12 procurement intelligence: document understanding, LLM-driven summarization & classification, large-scale entity matching, and data pipelines
 Visual Infomedia — Production NLP systems: LLM fine-tuning for document extraction, transformer training for large-scale classification, web scraping platform covering 37 US and Canadian government procurement portals (all live in production)
 
-Research: 2 published IEEE papers · 2 accepted conference papers (Springer) — topics span multimodal learning, generative models, time series forecasting
+**Research:** 2 published IEEE papers · 2 accepted conference papers (Springer) — topics span multimodal learning, generative models, time series forecasting
 
-Achievements: ABB Accelerator 2026 Finalist · 🏆 Myntra WeForShe HackerRamp 2024 Winner · 🥉 2nd Runner-Up at IEEE R10-HTC Innovation Challenge 2024 (Kuala Lumpur)
+**Achievements:** ABB Accelerator 2026 Finalist · 🏆 Myntra WeForShe HackerRamp 2024 Winner · 🥉 2nd Runner-Up at IEEE R10-HTC Innovation Challenge 2024 (Kuala Lumpur)
 
-Technical Focus: NLP · LLMs & Fine-tuning · RAG Pipelines · Agentic AI · PyTorch · HuggingFace · FastAPI · Distributed Systems (Spark, Kafka) · SQL
+**Technical Focus:** NLP · LLMs & Fine-tuning · RAG Pipelines · Agentic AI · PyTorch · HuggingFace · FastAPI · Distributed Systems (Spark, Kafka) · SQL
 
 ## Tech Stack
 
